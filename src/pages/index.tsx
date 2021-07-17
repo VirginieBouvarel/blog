@@ -8,7 +8,6 @@ export default function Index() {
       <div className={sharedStyles.layout}>
         <h1>Virginie's Blog</h1>
         <h2>De dev junior à dev junior.</h2> 
-
       </div>
     </>
   )
