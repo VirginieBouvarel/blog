@@ -28,8 +28,8 @@ const contacts = [
   {
     Comp: Envelope,
     alt: 'envelope icon',
-    link: 'mailto:vbouvarel@lilo.org?subject=Notion Blog',
-  },
+    link: 'mailto:vbouvarel@lilo.org?subject=notion-blog',
+  }
 ]
 
 export default function Contact() {
